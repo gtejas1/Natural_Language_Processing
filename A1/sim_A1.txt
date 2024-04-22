@@ -1,0 +1,10 @@
+earth	grass	0.7
+in	the	0.1
+beginning	lights	0.3
+gott	das	0.9
+tag	die	0.8
+von	gut	0.6
+so	teh	0.2
+made	et	0.4
+surface	esprit	0.5
+without	abend	0.7
